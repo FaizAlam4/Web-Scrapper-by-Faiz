@@ -20,4 +20,7 @@ After running file it will automatically create three files named as:
 
 
 
-**Code is importing some modules to run so you may be required to install them before it runs using this command : pip install <module_name>**
+**Code is importing some modules to run so you may be required to install them before it runs using this command :** 
+```
+pip install <module_name>
+```
