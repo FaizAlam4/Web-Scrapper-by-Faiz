@@ -2,8 +2,11 @@
 
 It is a single file Works on a local system. You can simply clone or copy the code and run on your system.
 
-To run this file simply, run this command in cli (in same directory):  py webscrapper.py 
+**To run this file simply, run this command in cli (in same directory):**
+```
+py webscrapper.py 
 
+```
 A very simple interface will open with a text field(made using tkinter library), simply enter the url of website you want to scrap.
 
 
