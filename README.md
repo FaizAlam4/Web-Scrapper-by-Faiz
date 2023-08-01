@@ -15,4 +15,8 @@ After running file it will automatically create three files named as:
 2. WEB_TEXT.txt -> That will have the formatted text of website
 3. WEB_LINKS.txt -> That will have all links present in the website
 
+<img width="943" alt="image" src="https://github.com/FaizAlam4/Web-Scrapper-by-Faiz/assets/87482396/88638206-73b1-4127-924c-f00984489ce1">
+
+
+
 *Code is importing some modules to run so you may be required to install them before it runs using this command : pip install <module_name>*
