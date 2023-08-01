@@ -5,6 +5,8 @@ It is a single file Works on a local system. You can simply clone or copy the co
 To run this file simply, run this command in cli (in same directory):  py webscrapper.py 
 
 A very simple interface will open with a text field(made using tkinter library), simply enter the url of website you want to scrap.
+
+
 <img width="299" alt="image" src="https://github.com/FaizAlam4/Web-Scrapper-by-Faiz/assets/87482396/8d75e4b0-3f02-48ca-adb4-a03f7631b286">
 
 Result:
