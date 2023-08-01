@@ -1,4 +1,4 @@
-# Web-Scrapper-by-Faiz
+## Web-Scrapper-by-Faiz
 
 It is a single file Works on a local system. You can simply clone or copy the code and run on your system.
 
@@ -8,7 +8,7 @@ A very simple interface will open with a text field(made using tkinter library),
 
 
 <img width="299" alt="image" src="https://github.com/FaizAlam4/Web-Scrapper-by-Faiz/assets/87482396/8d75e4b0-3f02-48ca-adb4-a03f7631b286">
-
+##
 Result:
 After running file it will automatically create three files named as: 
 1. WEB_CODE.txt -> That will have the html code of website you are scrapping
